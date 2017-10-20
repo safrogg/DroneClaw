@@ -1,0 +1,44 @@
+#######################################
+# Syntax Coloring Map For EventLoopScheduler
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+# LinkedQueue
+LinkedQueue	KEYWORD1
+Node	KEYWORD1
+
+# EventLoop
+EventLoop	KEYWORD1
+Task	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# LinkedQueue
+size	KEYWORD2
+push	KEYWORD2
+pop	KEYWORD2
+front	KEYWORD2
+back	KEYWORD2
+
+# EventLoop
+execute	KEYWORD2
+repeat	KEYWORD2
+size	KEYWORD2
+process	KEYWORD2
+get	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+# Unit
+MILLIS	LITERAL1
+SECONDS	LITERAL1
+MINUTES	LITERAL1
+HOURS	LITERAL1
+DAYS	LITERAL1
